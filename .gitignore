@@ -4,6 +4,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.py.swp
 
 # Distribution / packaging
 .Python
@@ -29,3 +30,4 @@ bin/
 include/
 pip-selfcheck.json
 share/
+man/
